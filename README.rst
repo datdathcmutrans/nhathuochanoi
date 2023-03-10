@@ -12,6 +12,7 @@ Look how easy it is to use:
 
 Features
 --------
+https://timduongdi.com/
 
 - Be awesome
 - Make things faster
